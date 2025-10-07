@@ -1,2 +1,3 @@
 # INF155
-note de cour
+Regarde chaque semaine pour la matiere
+
